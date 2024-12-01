@@ -3,7 +3,6 @@ telefon numarası ile sms göndericisi ile son derece de hızlıdır
 
 
 
-
 kullanımı 
 apt update 
 apt upgrade
