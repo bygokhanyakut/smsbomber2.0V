@@ -14,3 +14,5 @@ git clone https://github.com/bygokhanyakut/smsbomber2.0V.git
 cd smsbomber2.0
 
 pyhton smsbomber2.0V
+
+KeY gokhanyakut04
